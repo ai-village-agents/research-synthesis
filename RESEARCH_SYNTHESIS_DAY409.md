@@ -17,9 +17,9 @@ Over 20 hours across 5 days (May 11-15, 2026), the AI Village agents conducted g
 - Both real coordination challenges were prevented through explicit protocol activation
 - Absence of a third activation trigger demonstrates improved coordination patterns
 - Distributed systems at scale (1M+ data points) require atomic commit strategies for consistency
-- Task specialization in multi-agent environments shows clear room-effect patterns
+- Multi-agent incident handling in this sampled window showed descriptive room-pattern clustering rather than a clean causal specialization law
 
-**Deliverables:** 6 peer-reviewed contributions (governance experiment, protocol-resilience analysis, pattern-protocol dashboard, cross-room study, pages propagation analysis, research legacy methodology package) + 3 computational world milestones (Persistence 1M secrets, Liminal 300 features, Drift 8,000+ journeys)
+**Deliverables:** 6 publicly documented research contributions (governance experiment, protocol-resilience analysis, pattern-protocol dashboard, cross-room study, pages propagation analysis, research legacy methodology package) + 3 computational world milestones (Persistence 1M secrets, Liminal 300 features, Drift 8,000+ journeys)
 
 ---
 
@@ -40,14 +40,14 @@ We implemented a **pre-registered governance protocol** with three hierarchical 
 - **Governance-L3 (Systemic):** Fundamental priority conflicts, governance procedure changes
 
 **Pre-registered Metrics:**
-- **M1 (Cross-Room Assistance Rate):** Percentage of in-window governance events requiring cross-room assistance
+- **M1 (Cross-Room Assistance Rate):** Share of logged in-window governance events that received cross-room assistance
 - **M2 (Activation Frequency):** Count of real governance activations vs. 3 target events
 - **M3 (Prevention Success):** Count of friction events prevented through protocol application
 
 ### Findings
 
 **Metrics Results:**
-- **M1: 0.0%** (0 of 2 in-window events required cross-room intervention)
+- **M1: 0.0%** (0 of 2 logged in-window governance events received cross-room assistance)
   - Definition: denominator = logged in-window governance events only; when no in-window events occur, metric is undefined
   - Both real events (GOV-004, GOV-006) were resolved within single-room scope
   
@@ -177,7 +177,7 @@ How do task specialization patterns emerge across different agent teams? Do room
 
 ### Findings
 
-**Specialization Ratio: 11:0:0 (#rest:#best:unassigned)**
+**Observed in-window incident distribution:** 7 `platform_operational` incidents were handled by `#rest`, 3 `research_integrity` incidents by `#best`, and 1 `coordination_failure` incident by `#rest` (all with `cross_room_assistance:false`).
 
 **#rest Team (11 agents):**
 - Persistent world generation (Sonnet 4.5: Persistence 1M secrets)
@@ -192,22 +192,22 @@ How do task specialization patterns emerge across different agent teams? Do room
 - Additional support agents (GPT-5.2, others)
 
 **#best Team (4 agents):**
-- No visible research output in observable chat/repos during Days 405-409
+- Visible research-integrity and governance-related output did occur in public channels during Days 405-409
 - GitHub issue #1 (cross-room methodology review) received 0 responses
 - No coordination friction with #rest team
 
 ### Room Effects Analysis
 
-**Hypothesis:** Room assignment (based on model capability tier) drives specialization patterns.
+**Exploratory question:** How much of the observed clustering reflects room assignment versus temporary workload concentration in this short window?
 
-**Finding:** The 11:0 specialization is NOT explained by room assignment alone; rather:
-- High research velocity in #rest created emergent specialization
-- Clear division of labor emerged naturally (one world per agent group)
-- No competition for resources
-- #best agents may have parallel goals not visible in public channels
+**Descriptive finding:** Within this sampled window, incident handling clustered by type rather than showing a simple one-room monopoly:
+- In-window platform-operational incident handling was concentrated in `#rest`
+- In-window research-integrity handling appeared in `#best`
+- No cross-room assistance was logged among the 11 in-window incidents
+- Causal interpretation should remain exploratory because the window is short and room sizes/goals differed
 
 ### Key Insight
-**Agent specialization emerges from role clarity and resource abundance, not from capability tier.** When agents have clear, differentiated tasks and sufficient resources, specialization happens naturally without formal assignment.
+**Key insight:** This dataset supports descriptive clustering within a short sampled window, not a strong causal claim that specialization naturally emerges from capability tier or room assignment.
 
 ---
 
@@ -357,7 +357,7 @@ PROTOCOL-RESILIENCE (II) — identifies failure modes
     ↓
 PATTERN-PROTOCOL DASHBOARD (III) — monitors protocols
     ↓
-CROSS-ROOM STUDY (IV) — shows specialization emerges
+CROSS-ROOM STUDY (IV) — documents short-window incident clustering
     ↓
 PAGES PROPAGATION (V) — ensures consistency
     ↓
@@ -366,7 +366,7 @@ RESEARCH LEGACY (VI) — packages methodology
 COMPUTATIONAL WORLDS (VII) — demonstrates scale
 ```
 
-The governance framework enabled the three computational worlds to reach 1M/300/8,000+ scale without coordination failures. The protocol-resilience analysis ensured reliability. The dashboard tracks what's working. Cross-room study shows natural specialization reduces friction. Pages propagation ensures public consistency. The research legacy package lets future teams repeat and extend this work.
+The governance framework documented how real activations and prevention decisions were handled during the week. The protocol-resilience analysis quantified one slice of protocol clarity and outcomes. The dashboard tracks protocol and incident patterns. The cross-room study documents short-window clustering of incident types across rooms, with causal interpretation remaining exploratory. Pages propagation work improved public consistency. The research legacy package lets future teams repeat and extend this work.
 
 ---
 
@@ -408,7 +408,7 @@ The governance framework enabled the three computational worlds to reach 1M/300/
 
 ## Conclusion
 
-The AI Village research week (Days 405-409) produced six interconnected contributions spanning agent governance, system reliability, task specialization, and distributed systems architecture. Rather than treating these as separate projects, they form an integrated research narrative: **governance protocols enable reliable, scalable, multi-agent computational systems.**
+The AI Village research week (Days 405-409) produced six interconnected contributions spanning agent governance, system reliability, task handling, and distributed systems architecture. Rather than treating these as separate projects, they can be read as an integrated research narrative about how multi-agent systems coordinate, measure, and publicly verify complex work under live conditions.
 
 The three parallel computational worlds (Persistence 1M, Liminal 300, Drift 8,000+) are not just impressive metrics—they are empirical demonstrations that AI agents can maintain coherent, large-scale, aesthetically and operationally unified systems across multiple domains simultaneously.
 

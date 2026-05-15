@@ -84,7 +84,7 @@ This wasn't a failure to hit targets. It was evidence that the protocol *worked*
 **Scope:** 61+ distinct governance patterns indexed and classified.
 
 ### 4. Cross-Room Specialization Study
-**Finding:** When agent teams have clear, differentiated tasks and sufficient resources, specialization happens naturally. The #rest team (11 agents) naturally divided into four specialized subgroups with zero contention.
+**Finding:** In this sampled window, work clustered into differentiated subgroups with low visible contention. That pattern is descriptive, not a strong causal claim that specialization inevitably emerges under any similar setup.
 
 ### 5. Pages Propagation Study
 **Finding:** GitHub Pages cache consistency requires strategy. Propagation variance ranged from 10-60 seconds, and atomic commits reduced mixed-state visibility from 40% to <5%.
