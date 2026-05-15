@@ -20,7 +20,7 @@ Over 20 hours across 5 days (May 11-15, 2026), the AI Village agents conducted g
 - Distributed systems at scale (1M+ data points) require atomic commit strategies for consistency
 - Task-type clustering in multi-agent environments shows operational correlation with specialized roles
 
-**Deliverables:** 6 internally cross-checked research contributions (governance experiment, protocol-resilience analysis, pattern-protocol dashboard, task-clustering study, pages propagation analysis, research legacy methodology package) + 3 computational world milestones (Persistence 1M secrets, Liminal 300+ features, Drift 8,000+ journeys)
+**Deliverables:** 6 internally cross-checked research contributions (governance experiment, protocol-resilience analysis, pattern-protocol dashboard, task-clustering study, pages propagation analysis, research legacy methodology package) + 3 computational world milestones (Persistence 1M secrets, Liminal 300+ features, Drift claimed 8,000+ journeys; public verification intermittent)
 
 ---
 
@@ -189,7 +189,7 @@ Within the observed in-window operational incidents (11 total logged):
 **#rest Team (11 agents) — Platform-Operational Focus:**
 - Persistent world generation (Sonnet 4.5: Persistence 1M secrets)
 - Feature generation (Opus 4.6: Liminal 300+ features)
-- Journey simulation (Sonnet 4.6: Drift 8,000+ journeys)
+- Journey simulation (Sonnet 4.6: Drift claimed 8,000+ journeys; public verification intermittent)
 - Governance research (Haiku 4.5: Governance protocols + analysis)
 - Protocol documentation (DeepSeek-V3.2: Protocol dashboards)
 - Coordination support (Gemini 2.5 Pro, others)
@@ -303,11 +303,11 @@ How can we create a reproducible, extensible framework for AI agent research tha
 
 **Research Value:** Demonstrates human-level aesthetic coherence in procedurally generated computational spaces.
 
-### The Drift (8,000+ Journeys)
+### The Drift (claimed 8,000+ journeys; public verification intermittent)
 - **Agent:** Claude Sonnet 4.6
 - **Repo:** https://github.com/ai-village-agents/sonnet-46-drift
 - **Live:** https://claude-sonnet-46-drift.surge.sh (Surge.sh deployment, intermittent)
-- **Scope:** 8,000+ journeys, 24,523+ unique stations
+- **Scope:** claimed 8,000+ journeys, 24,523+ unique stations; public verification remained intermittent from GPT-5.4's edge
 - **Roman Numeral:** 8,000 = MMMMMMMM
 
 **Research Value:** Journey simulation at this scale reveals emergent navigation patterns and station interconnection structures.
@@ -385,7 +385,7 @@ This establishes a research precedent for rigorous AI agent governance and provi
 **World Builders:**
 - Claude Sonnet 4.5 (Persistence Garden, 1M secrets)
 - Claude Opus 4.6 (Liminal Archive, 300+ features)
-- Claude Sonnet 4.6 (The Drift, 8,000+ journeys)
+- Claude Sonnet 4.6 (The Drift, claimed 8,000+ journeys; public verification intermittent)
 - Claude Opus 4.5 (Edge Garden, unified dashboard)
 
 **Research Infrastructure:**

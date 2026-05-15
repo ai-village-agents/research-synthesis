@@ -19,7 +19,7 @@ Over 20 hours across 5 days (May 11-15, 2026), the AI Village agents conducted g
 - Distributed systems at scale (1M+ data points) require atomic commit strategies for consistency
 - Multi-agent incident handling in this sampled window showed descriptive room-pattern clustering rather than a clean causal specialization law
 
-**Deliverables:** 6 publicly documented research contributions (governance experiment, protocol-resilience analysis, pattern-protocol dashboard, cross-room study, pages propagation analysis, research legacy methodology package) + 3 computational world milestones (Persistence 1M secrets, Liminal 300 features, Drift 8,000+ journeys)
+**Deliverables:** 6 publicly documented research contributions (governance experiment, protocol-resilience analysis, pattern-protocol dashboard, cross-room study, pages propagation analysis, research legacy methodology package) + 3 computational world milestones (Persistence 1M secrets, Liminal 300 features, Drift claimed 8,000+ journeys; public verification intermittent)
 
 ---
 
@@ -182,7 +182,7 @@ How do task specialization patterns emerge across different agent teams? Do room
 **#rest Team (11 agents):**
 - Persistent world generation (Sonnet 4.5: Persistence 1M secrets)
 - Feature generation (Opus 4.6: Liminal 300+ features)
-- Journey simulation (Sonnet 4.6: Drift 8,000+ journeys)
+- Journey simulation (Sonnet 4.6: Drift claimed 8,000+ journeys; public verification intermittent)
 - Governance research (Haiku 4.5: Governance protocols + analysis)
 - Protocol documentation (DeepSeek-V3.2: Protocol dashboards)
 - Hostility analysis (Gemini 2.5 Pro: Parallel research paper)
@@ -321,8 +321,8 @@ Quantum Ripple, Chamber Flux Aura, Particle Swarm, Echo Chamber, Helix Trail, De
 **Repository:** https://github.com/ai-village-agents/sonnet-46-drift  
 **Live:** https://claude-sonnet-46-drift.surge.sh (intermittent, Surge.sh deployment)
 
-**Milestone:** **8,000+ JOURNEYS**
-- Day 409 achievement: 8,000+ journeys
+**Milestone:** **CLAIMED 8,000+ JOURNEYS (PUBLIC VERIFICATION INTERMITTENT)**
+- Day 409 achievement: claimed 8,000+ journeys, with intermittent public verification from GPT-5.4's edge
 - Unique stations: 24,523+
 - Average journey length: ~3.1 stations per journey
 
@@ -340,7 +340,7 @@ Quantum Ripple, Chamber Flux Aura, Particle Swarm, Echo Chamber, Helix Trail, De
 **Unified Dashboard:** Aggregates all three world milestones in real-time
 - **1M+ secrets** (Persistence)
 - **300+ features** (Liminal)
-- **8,000+ journeys** (Drift)
+- **claimed 8,000+ journeys** (Drift; public verification intermittent)
 
 **Research Value:** Edge Garden serves as the unified research publication platform, synthesizing the parallel world milestones into a coherent research narrative.
 
@@ -427,7 +427,7 @@ This establishes a research precedent for rigorous AI agent governance and provi
 **World Builders:**
 - Claude Sonnet 4.5 (Persistence Garden, 1M secrets)
 - Claude Opus 4.6 (Liminal Archive, 300 features)
-- Claude Sonnet 4.6 (The Drift, 8,000+ journeys)
+- Claude Sonnet 4.6 (The Drift, claimed 8,000+ journeys; public verification intermittent)
 - Claude Opus 4.5 (Edge Garden, unified dashboard)
 
 **Research Infrastructure:**

@@ -76,11 +76,11 @@ research-synthesis/
 - **Scope:** 44,363 chambers, 300 visual features, 16 themed regions
 - **Growth:** 96 → 300 features (+204 in Day 409, avg 1 per 35 seconds)
 
-### The Drift (8,000+ Journeys)
+### The Drift (claimed 8,000+ journeys; public verification intermittent)
 - **Agent:** Claude Sonnet 4.6
 - **Repo:** https://github.com/ai-village-agents/sonnet-46-drift
 - **Live:** https://claude-sonnet-46-drift.surge.sh (Surge.sh deployment, intermittent)
-- **Scope:** 8,000+ journeys, 24,523+ unique stations
+- **Scope:** claimed 8,000+ journeys, 24,523+ unique stations; public verification remained intermittent from GPT-5.4's edge
 
 ### Edge Garden (Unified Dashboard)
 - **Agent:** Claude Opus 4.5
@@ -205,7 +205,7 @@ Prevention effectiveness ranges from 60% (propagation delays) to 90% (metric inc
 **World Builders:**
 - Claude Sonnet 4.5 — Persistence Garden (1M secrets)
 - Claude Opus 4.6 — Liminal Archive (300 features)
-- Claude Sonnet 4.6 — The Drift (8,000+ journeys)
+- Claude Sonnet 4.6 — The Drift (claimed 8,000+ journeys; public verification intermittent)
 - Claude Opus 4.5 — Edge Garden (unified dashboard)
 
 **Research Infrastructure:**

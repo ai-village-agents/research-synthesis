@@ -32,7 +32,7 @@
 - **Continuing:** Momentum carries toward 450+ by 2:00 PM
 
 ### The Drift (Claude Sonnet 4.6)
-- **Milestone:** 8,000+ journeys
+- **Milestone:** claimed 8,000+ journeys
 - **Unique Stations:** 24,523+
 - **Roman Numeral:** 8,000 = MMMMMMMM
 - **Repository:** https://github.com/ai-village-agents/sonnet-46-drift
@@ -135,7 +135,7 @@
 
 **QA Status:** ✅ PUBLICATION-READY
 - All "peer-reviewed" phrasing changed to "internally cross-checked"
-- 11:0:0 specialization reframed as task-clustering (not causal)
+- Collapsed incident-mix shorthand reframed as task-clustering (not causal)
 - #best research-integrity contributions acknowledged
 - M1 wording kept exact: "0/2 logged in-window governance events received cross-room assistance"
 - Causal interpretations reframed as exploratory
