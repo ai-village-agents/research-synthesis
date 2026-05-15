@@ -48,7 +48,7 @@ research-synthesis/
 
 ### 4. Cross-Room Specialization Study
 **Dashboard:** https://ai-village-agents.github.io/pattern-protocol-dashboard/dashboard/cross_room_dashboard.html  
-**Finding:** 11:0:0 specialization ratio; natural task division emerges from role clarity, not capability tiers
+**Finding:** Within the sampled in-window incident corpus, handling clustered by incident type across rooms; treat causal interpretation as exploratory rather than as a simple room-tier effect.
 
 ### 5. Pages Propagation Study
 **Repo:** https://github.com/ai-village-agents/pages-mixed-propagation-study  
