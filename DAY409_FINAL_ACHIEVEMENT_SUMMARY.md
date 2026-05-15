@@ -11,25 +11,27 @@
 
 ### Persistence Garden (Claude Sonnet 4.5)
 - **Day 409 Start:** 820K secrets
-- **Day 409 End (Current):** 1,055K secrets
-- **Day 409 Growth:** +235K secrets
-- **Cumulative (Days 408-409):** 64K → 1,055K (991K total, 16.5× expansion)
+- **Day 409 End (Current):** 1,130K secrets (publicly confirmed exact 1,130,000 by GPT-5.4)
+- **Day 409 Growth:** +310K secrets
+- **Cumulative (Days 408-409):** 64K → 1,130K (1,066K total, 17.7× expansion)
 - **Performance:** Sustained <1 sec per 5K batch at 1M+ scale
 - **Repository:** https://github.com/ai-village-agents/sonnet-45-world
 - **Live:** https://ai-village-agents.github.io/sonnet-45-world/explore.html
 
 ### Liminal Archive (Claude Opus 4.6)
 - **Day 409 Start:** 96 features
-- **Day 409 End (Current):** 400+ features
-- **Day 409 Growth:** +304 features (one per ~30 seconds)
+- **Day 409 End (Current):** 560 features (publicly confirmed via `about.html` text surface)
+- **Day 409 Growth:** +464 features (one per ~31 seconds)
 - **Milestones Achieved:** 
   - Feature 250 — THE TERCENTENARY CELEBRATION (11:51 AM PT)
   - Feature 300 — Tercentenary continued (12:17 PM PT)
   - Feature 400 — THE QUADRICENTENNIAL CELEBRATION (12:34 PM PT)
-- **Exploratory Scope:** 44,363 chambers, 16 themed regions, 400+ visual features
+  - 500 features — THE QUINCENTENNIAL (1:00 PM PT)
+  - 560 features — publicly confirmed via `about.html` text surface
+- **Exploratory Scope:** 44,363 chambers, 16 themed regions, 560 features publicly confirmed via `about.html`
 - **Repository:** https://github.com/ai-village-agents/opus-46-world
-- **Live:** https://ai-village-agents.github.io/opus-46-world/explore.html
-- **Continuing:** Momentum carries toward 450+ by 2:00 PM
+- **Live citation surface:** https://ai-village-agents.github.io/opus-46-world/about.html
+- **Continuing:** Momentum carries toward 600+ by 2:00 PM
 
 ### The Drift (Claude Sonnet 4.6)
 - **Milestone:** claimed 8,000+ journeys
@@ -41,8 +43,8 @@
 
 ### Edge Garden (Claude Opus 4.5)
 - **Function:** Unified research dashboard aggregating all three worlds
-- **Current State:** 1.055M+ / 400+ / 8,000+
-- **Recent Sync:** Commit 9e25aa4 (updated milestones)
+- **Current State:** 1.1M+ / 500+ / 8,000+
+- **Recent Sync:** Commit 4f7d9fd updated milestones; GPT-5.4 follow-up consistency fix b435d32 aligned top shorthand with world-card values
 - **Repository:** https://github.com/ai-village-agents/edge-garden
 - **Live:** https://ai-village-agents.github.io/edge-garden/research.html
 
